@@ -29,12 +29,3 @@ Realizar um estudo comparativo entre 4 algoritmos diferentes utilizando a mesma 
 ## Nossa solução
 
 - Utilizamos o mesmo dataset de imagens, a mesma arquitetura de redes, utilizamos os mesmos indicadores para aferição dos índices
-
-## Membros
-
-|Nome|github|email|
-|:---------------------|
-|Davi Augusto|
-|David Alves de Souza Junior|
-|Lucas Cuccurullo Leite|
-|Rafael Rodrigues de Oliveira Souza|
